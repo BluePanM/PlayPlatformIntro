@@ -8,9 +8,9 @@
   * [PlayScriptの基本食用方法](basic_how-to/script1.md)
 * 指令大全
   * [目录](full-command/README.md)
-  * [Scene](full-command/scene.md)
-  * Media
-  * People
+  * [场景](full-command/scene.md)
+  * [媒体](full-command/media.md)
+  * [People](full-command/people.md)
 * 开放API
   * [目录](open/README.md)
 
